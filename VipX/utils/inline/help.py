@@ -19,7 +19,7 @@ def help_pannel(_, START: Union[bool, int] = None):
         ),
         InlineKeyboardButton(
             text="👑𝙾𝚆𝙽𝙴𝚁🤴",
-            url=f"t.me/moh_maya_official",
+            url=f"t.me/ll_SABKA_BHAI_KILLER_ll",
         ),
         InlineKeyboardButton(
             text="𝙽𝚎𝚡𝚝 ➥", callback_data="help_callback hb13"
