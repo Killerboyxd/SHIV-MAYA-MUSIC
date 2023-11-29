@@ -14,7 +14,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
 
 
 <h2 align="center">
-    ─「 ⌯ ꯭𝐒 ꯭𝐇꯭ 𝐈꯭ 𝐕꯭ 🜲꯭ ꯭ 」─
+    ─「 ⌯ 🅢🅗🅘🅥 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
